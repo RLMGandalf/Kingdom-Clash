@@ -1,0 +1,19 @@
+{
+    "context": "server",
+    "identifier": "Rainbow_Racers",
+    "display_name": "Rainbow Racers",
+    "description": "Race your car through the track and get to the metal spot to build your trophy!.",
+    "author": "Yuri Bros",
+    "version": "1.2",
+    "build": "79600",
+    "date": "2015/03/25",
+    "signature": "not yet implemented",
+    "category": [
+        "game-mode",
+		"racing"
+    ],
+    "id": "a",
+    "icon": "http://i.imgur.com/M1fdn9R.png",
+    "priority": 500,
+    "enabled": true
+}
