@@ -1,13 +1,1 @@
-{
-    "base_spec": "/pa/units/commanders/base_commander/base_commander.json",
-    "description": "Broom",
-    "display_name": "Hermes",
-    "model": {
-        "filename": "/pa/units/land/bot_sniper/bot_sniper.papa",
-        "animations": {
-            "walk": "/pa/units/land/bot_sniper/bot_sniper_anim_walk.papa"
-        },
-        "animtree": "/pa/anim/anim_trees/bot_sniper_anim_tree.json",
-        "walk_speed": 12
-    }
-}
+{"base_spec": "/pa/units/commanders/base_commander/base_commander.json"}
